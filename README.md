@@ -8,4 +8,7 @@ I studied Behavioral Ecomomics at CMU and am currently enrolled in the MS-DC pro
 I of course want to learn how to make highly effective data visualizations. I love stories and want to be able to tell them -- with data! I want to be able to take complex topics and distill them into a medium that I can share with others even if they are not familiar with the subject.
 
 ### Portfolio
-TBD
+
+##### King County COVID Cases
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
