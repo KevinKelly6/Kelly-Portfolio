@@ -12,3 +12,7 @@ I of course want to learn how to make highly effective data visualizations. I lo
 ##### King County COVID Cases
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Data Viz 2
+
+Click here (/dataviz2.md)
