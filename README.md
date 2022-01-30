@@ -15,4 +15,4 @@ I of course want to learn how to make highly effective data visualizations. I lo
 
 ### Data Viz 2
 
-Click here/dataviz2.md
+[Click here](/dataviz2.md)
