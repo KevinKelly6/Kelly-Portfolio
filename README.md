@@ -16,3 +16,9 @@ I of course want to learn how to make highly effective data visualizations. I lo
 ### Data Viz 2
 
 [Click here](/dataviz2.md)
+
+### OECD Debt-to-GDP Ratio
+
+Assignment: Visualizing Government Debt
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8565187"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
