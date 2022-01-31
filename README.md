@@ -15,11 +15,9 @@ I of course want to learn how to make highly effective data visualizations. I lo
 
 ### Data Viz 2: OECD Debt-to-GDP Ratio
 
-Each of these visualizations tells a different story with respect to OECD countries' debt-to-GDP ratio. Per their website, OECD's measurement of government debt is a signal for the sustainability of government finance. Therefore, the countries with the lowest debt-to-GDP ratios have the most sustainable financial situation.
+Per their website, OECD's measurement of government debt is a signal for the sustainability of government finance. Therefore, the countries with the lowest debt-to-GDP ratios have the most sustainable financial situation. Each of these visualizations tells a different story with respect to OECD countries' debt-to-GDP ratio.
 
-The first visualization, the bar chart, shows the current state of OECD countries' finances. As of today, these are the countries with the least and most sustainable financial circumstances. The second visualization, the line grid, shows trends over time and compares every single country on one plane. This gives the viewer the opportunity to look at each country's trend in comparison to all others'. The final visualization, the line race, also shows trends over time; however, this chart directly compares the relationship between each countries debt-to-GDP ratio.
-
-I chose the line race because it clearly shows how much of an outlier Japan's debt-to-GDP ratio is, and it shows the rapid changes that countries' ratios can make over time.
+The first visualization, the bar chart, shows the current state of OECD countries' finances. The second visualization, the line grid, shows trends over time and compares every single country on one plane. The final visualization, the line race, also shows trends over time; however, this chart directly compares the relationships between each country's debt-to-GDP ratio. I chose the line race because it clearly shows how much of an outlier Japan's debt-to-GDP ratio is, and it shows the rapid changes that countries' ratios can make over time.
 
 ##### Part 1: Bar Chart
 
