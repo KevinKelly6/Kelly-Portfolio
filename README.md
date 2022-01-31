@@ -7,22 +7,23 @@ I studied Behavioral Ecomomics at CMU and am currently enrolled in the MS-DC pro
 ### What I hope to learn
 I of course want to learn how to make highly effective data visualizations. I love stories and want to be able to tell them -- with data! I want to be able to take complex topics and distill them into a medium that I can share with others even if they are not familiar with the subject.
 
-### Portfolio
+# Portfolio
 
-##### King County COVID Cases
+### King County COVID Cases
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Data Viz 2
+### Data Viz 2: OECD Debt-to-GDP Ratio
+
+##### Part 1: Bar Chart
 
 [Click here](/dataviz2.md)
 
-### OECD Debt-to-GDP Ratio
-
-Assignment: Visualizing Government Debt
+##### Part 2: Line Grid
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8565187"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-Part 3: Custom Visualization
+##### Part 3: Line Race
+
 [Click here](/dataviz2.3.md)
