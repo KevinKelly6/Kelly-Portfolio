@@ -51,4 +51,7 @@ One interviewee was unsurprised by the results because "outside care costs more.
 
 ### 5. The Final Visualization
 
+[Click Here](/childcare_final.md)
+
+
 [Return to Main Page](/README.md)
