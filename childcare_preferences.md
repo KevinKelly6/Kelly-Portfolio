@@ -43,7 +43,7 @@ The most noticeable pattern was the preference for the pie chart. I myself was l
 
 I was concerned that the idea of the Upper Class preferring Outside care would get lost in the pie chart, but one interviewee commented that the inverse idea (Lower Class prefers At-Home care) was made especially clear in the pie chart. I had not thought of this.
 
-One interviewee thought the graphs should the amount of childcare "used" when it is actually the amount "preferred." This made me alter my title to be clearer on this matter.
+One interviewee thought that the graphs showed the amount of childcare "used" when it is actually the amount "preferred." This made me alter my title to be clearer on this matter.
 
 One interviewee liked seeing the specific percentages on the bar chart, but still favored the pie chart. I knew I could incorporate the specific percentages on a digital pie chart with pop-ups.
 
