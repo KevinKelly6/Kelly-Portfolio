@@ -1,5 +1,7 @@
 # Childcare Preferences
 
+[Click Here to head straight to Final Visualization](/childcare_final.md)
+
 ### 1. The Original
 
 ![image](https://user-images.githubusercontent.com/61394509/152906142-545ac290-439f-4d87-afa7-0bfb510b2bca.png)
@@ -51,7 +53,7 @@ One interviewee was unsurprised by the results because "outside care costs more.
 
 ### 5. The Final Visualization
 
-[Click Here](/childcare_final.md)
+[Click Here for Final Visualization](/childcare_final.md)
 
 
 [Return to Main Page](/README.md)
