@@ -3,6 +3,7 @@
 ### The Original
 
 ![image](https://user-images.githubusercontent.com/61394509/152906142-545ac290-439f-4d87-afa7-0bfb510b2bca.png)
+
 Source: Teles, S. M., Hammond, S., Takash, D. (2021). Cost disease socialism. Niskanen Center. https://www.niskanencenter.org/wp-content/uploads/2021/09/Cost-Disease-Socialism.pdf
 
 I chose this visualization because it comes from a paper that I find has been extremely influential on my own thoughts about policy. The paper, titled "Cost Disease Socialism" (from the Niskanen Center), discusses the spiraling costs of important social goods (specifically, health care, housing, education, child care). While I find the economic analysis compelling, some of the data visualizations leave much to be desired. I thought it would be a fun exercise to take this graph on childcare preferences and make it clearer.
@@ -21,11 +22,14 @@ You should talk about how you moved next to the wireframes, and any insights you
 
 ##### The Bar Graph
 ![IMG_1709](https://user-images.githubusercontent.com/61394509/152908670-7371bb20-7136-4076-8e02-9ad63e784118.jpg)
+
 I was naturally inclined to begin with a bar chart. Here, I changed the color scheme to highlight the comparison between At-Home and Full-Time Outside Childcare, because this is the policy-relevant comparison. One of the primary discussions in childcare financing is whether the government should subsidize parents (e.g., with an expanded Child Tax Credit) or childcare facilities (e.g., subsidized/universal daycare). This graph is meant to visualize parents' preferences in order to inform this policy choice.
 
 I also included the more specific title I came up with during the critique and a subtitle emphasizing policy implications. Finally, I removed clutter (horizontal gray lines and the survey language below the legend).
 
 ##### The Line Graph
+![IMG_1710](https://user-images.githubusercontent.com/61394509/152909793-8748c941-96ee-4955-b949-f293e1a53b2c.jpg)
+
 
 
 
