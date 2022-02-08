@@ -4,6 +4,6 @@ Finally, talk about what your redesigned data visualization shows, why you selec
 
 
 
-[Return to Project]/(childcare_preferences.md)
+[Return to Project](/childcare_preferences.md)
 
 [Return to Main Page](/README.md)
