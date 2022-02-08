@@ -9,9 +9,7 @@ I of course want to learn how to make highly effective data visualizations. I lo
 
 # Portfolio
 
-### King County COVID Cases
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/8529804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+### Assignment 3 & 4: Critique by Design
 
 ### Data Viz 2: OECD Debt-to-GDP Ratio
 
@@ -27,7 +25,10 @@ The first visualization, the bar chart, shows the current state of OECD countrie
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8565187"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 ##### Part 3: Line Race
 
 [Click here](/dataviz2.3.md)
+
+### King County COVID Cases
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
