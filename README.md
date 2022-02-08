@@ -11,6 +11,10 @@ I of course want to learn how to make highly effective data visualizations. I lo
 
 ### Assignment 3 & 4: Critique by Design
 
+[Click Here](/childcare_preferences.md)
+
+[Go straight to final visualization](/childcare_final.md)
+
 ### Data Viz 2: OECD Debt-to-GDP Ratio
 
 Per their website, OECD's measurement of government debt is a signal for the sustainability of government finance. Therefore, the countries with the lowest debt-to-GDP ratios have the most sustainable financial situation. Each of these visualizations tells a different story with respect to OECD countries' debt-to-GDP ratio.
@@ -27,7 +31,7 @@ The first visualization, the bar chart, shows the current state of OECD countrie
 
 ##### Part 3: Line Race
 
-[Click here](/dataviz2.3.md)
+[Click Here](/dataviz2.3.md)
 
 ### King County COVID Cases
 
