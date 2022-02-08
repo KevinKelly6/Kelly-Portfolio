@@ -33,8 +33,7 @@ My next sketch was a line graph. I thought maybe this would show the "trend" bet
 ##### The Grid of Pie Charts
 ![IMG_1711](https://user-images.githubusercontent.com/61394509/152910028-a2f62078-4918-46cc-baef-8937859484d5.jpg)
 
-
-
+My final sketch was a grid of pie charts. I thought this was a unique application of pie charts. I had never created a grid of pie charts before, so it was cool for me. This felt like the least cluttered of the designs. However, I was worried if audiences would be able to tell that yellow > blue once I created it digitally. This comparison is the crucial point of the visualization, because it shows that only Upper Class parents prefer Outside Childcare to At-Home Childcare.
 
 ### The Feedback
 You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.
