@@ -20,7 +20,7 @@ A monthly Child Allowance would dramatically cut child poverty in the U.S. and w
 
 6. Call to action. Implementing a Child Allowance is extremely feasible. Almost all wealthy countries have one, plus our Congress has already done it once. There is bipartisan support with proposals from both sides. As future leaders, we need to continue discussing publicly the benefits of a Child Allowance in order to draw attention and build public support.
 
-* I drew my sketch for Graph 4 before finding an adequate data source, so it shows a longer time horizon than I actually have data for
+'*' I drew my sketch for Graph 4 before finding an adequate data source, so it shows a longer time horizon than I actually have data for
 
 ### Initial Sketches
 
