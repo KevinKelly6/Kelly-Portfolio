@@ -36,4 +36,8 @@ Further, I will use OECD data on poverty rates (https://data.oecd.org/inequality
 
 I will use monthly poverty data (https://www.povertycenter.columbia.edu/forecasting-monthly-poverty-data) from the Columbia University Center on Poverty & Social Policy for Graph 4 (U.S. Child Poverty over time).
 
+### Method and Medium
+
+I plan to use Shorthand to create my project. This platform will allow me to incorporate data visualizations, public domain images, and written text in order to effectively convey my story.
+
 [Return to main page](/README.md)
