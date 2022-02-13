@@ -9,6 +9,10 @@ I of course want to learn how to make highly effective data visualizations. I lo
 
 # Portfolio
 
+### Final Project Part 1
+
+[Click Here](/final_project_KevinKelly.md)
+
 ### Assignment 3 & 4: Critique by Design
 
 [Click Here](/childcare_preferences.md)
