@@ -34,6 +34,6 @@ I will also use data from the General Social Survey (https://gss.norc.org/). The
 
 Further, I will use OECD data on poverty rates (https://data.oecd.org/inequality/poverty-rate.htm) for Graph 3 (Child Poverty in Wealthy Countries).
 
-I will use monthly poverty data from the Columbia University Center on Poverty & Social Policy for Graph 4 (U.S. Child Poverty over time).
+I will use monthly poverty data (https://www.povertycenter.columbia.edu/forecasting-monthly-poverty-data) from the Columbia University Center on Poverty & Social Policy for Graph 4 (U.S. Child Poverty over time).
 
 [Return to main page](/README.md)
