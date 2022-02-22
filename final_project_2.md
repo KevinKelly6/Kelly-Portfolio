@@ -17,7 +17,7 @@ These questions gave me some really useful feedback last time, so I figured I wo
 4. Who do you think is the intended audience for this?
 5. Is there anything you would change or do differently?
 
-d. Findings
+d. & e. Findings & Intended Changes
 
 ##### Interview 1
 1. "I assume a child allowance and child tax credits are the same? This appears to be an effort to increase the child birth rate by providing a monetary incentive."
