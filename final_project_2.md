@@ -44,7 +44,7 @@ This interview made me feel confident that my major points hit: the startling fe
 4. "It's definitely intended for the general public but I believe it could also be targeting those within the age group most likely to be having children/wanting to have children."
 5. "More written info on each slides wouldn't be bad."
 
-Again, this gave me confidence that my key point hit. Something this interview touched on that I hadn't considered: perhaps the presentation persuades young parents in particular to be animated about such a proposal. Like I mentioned, I will address how much content I can add once I start rehearsing.
+Again, this gave me confidence that my key points hit. An interesting note from this interview: perhaps the presentation persuades young parents in particular to be animated about such a proposal. Like I mentioned, I will address how much content I can add once I start rehearsing.
 
 
 [Return to Home Page](/README.md)
