@@ -20,6 +20,6 @@ https://user-images.githubusercontent.com/61394509/153771147-fdba9676-5086-41cc-
 
 6. Call to action. Implementing a Child Allowance is extremely feasible. Almost all wealthy countries have one, plus our Congress has already done it once. There is bipartisan support with proposals from both sides. As future leaders, we need to continue discussing publicly the benefits of a Child Allowance in order to draw attention and build public support.
 
-I translated this story into a [draft shorthand report](/https://preview.shorthand.com/Iqs674OlvaGcbNj5?_gl=1*jnxyah*_gcl_aw*R0NMLjE2NDQ3MTM5NTkuQ2owS0NRaUEwcDJRQmhEdkFSSXNBQUNTT09PeGZVMGtialNRWWxhc0hUZWNnU3d4YlhZSzZ4bE9lM2E1eEM1dDZ1c184ZVV6X1Y2QWJhQWFBcWxfRUFMd193Y0I).
+I translated this story into a [draft shorthand report](https://preview.shorthand.com/Iqs674OlvaGcbNj5?_gl=1*jnxyah*_gcl_aw*R0NMLjE2NDQ3MTM5NTkuQ2owS0NRaUEwcDJRQmhEdkFSSXNBQUNTT09PeGZVMGtialNRWWxhc0hUZWNnU3d4YlhZSzZ4bE9lM2E1eEM1dDZ1c184ZVV6X1Y2QWJhQWFBcWxfRUFMd193Y0I).
 
 ## Changes Made Since Part II
