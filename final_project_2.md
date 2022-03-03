@@ -55,6 +55,8 @@ Again, this gave me confidence that my key points hit. An interesting note from 
 2. Further, I will strictly refer to the policy as the "Child Tax Credit" instead of alternating between that and "Child Allowance," to avoid confusion
 3. I will include data-based arguments in my visualizations and some appeals to emotion in my text
 
+[Go to Part I](/final_project_1.md)
+
 [Go to Part III](/final_project_3.md)
 
 [Return to Home Page](/README.md)
