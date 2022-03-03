@@ -10,8 +10,6 @@ For this project, I was motivated to by the notion that an Expanded Child Tax Cr
 #### Story
 My initial story was told in six parts:
 
-https://user-images.githubusercontent.com/61394509/153771147-fdba9676-5086-41cc-8fb9-3c20a5e30dbe.jpeg
-
 1. In the introduction, I want to grab the audience's attention with an optimistic vision of the future -- to show them what is at stake. I will likely include public domain images of happy children to drive home the emotional impact.
 
 2. This is where I introduce the first problem: the low fertility rate and the gap between the amount of children that women would like to have and they actually have. This is a threat to the optimistic vision presented in the introduction.
