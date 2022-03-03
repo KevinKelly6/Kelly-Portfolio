@@ -47,6 +47,8 @@ For my third graph ("Child Poverty Rates of G7 Countries") I used [OECD](https:/
 
 For my fourth graph ("The Expanded CTC dramatically reduced child poverty") I used monthly U.S. poverty data from the [Center on Poverty & Social Policy at Columbia University](https://www.povertycenter.columbia.edu/forecasting-monthly-poverty-data). I highlighted the moment when the Expanded Child Tax Credit was passed (as part of the American Rescue Plan) and when it expired. Given the limitations of my data and visualization software, I had to place the "CTC Expanded" line on Febryary 2021, even though the American Rescue Plan went into effect on March 11, 2021. However, the monthly poverty data is from the end of each month, so the effects of the Expanded CTC would not show up in the data until the "March 2021" point. If I had more granular data, I could have put the "CTC Expanded" line directly on March 11; or, if the software allowed me to put a line between February and March, I could have done that. But, given these limitations, this is the best approximation.
 
+The book [*One Billion Americans*](https://www.amazon.com/One-Billion-Americans-Thinking-Bigger-ebook/dp/B082ZR6827/ref=sr_1_1?crid=3BWDEHIERUOT7&keywords=one+billion+americans&qid=1646191831&sprefix=one+bill%2Caps%2C146&sr=8-1) by Matthew Iglesias was foundational to my thinking on this subject, and is cited in the report. Further, I used information from the article [“Cash for Kids? Assessing the American Family Act”](https://ifstudies.org/blog/cash-for-kids-assessing-the-american-family-act) by Lyman Stone. 
+
 [Go to Part I](/final_project_KevinKelly.md)
 
 [Go to Part II](/final_project_2.md)
