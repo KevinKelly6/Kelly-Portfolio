@@ -1,10 +1,10 @@
 # Final Project Part 1: U.S. Child Allowance
 
-### Summary
+## Summary
 
 A monthly Child Allowance would dramatically cut child poverty in the U.S. and would boost the declining feritility rate.
 
-##### The Story
+### The Story
 
 ![image0](https://user-images.githubusercontent.com/61394509/153771147-fdba9676-5086-41cc-8fb9-3c20a5e30dbe.jpeg)
 
@@ -22,11 +22,11 @@ A monthly Child Allowance would dramatically cut child poverty in the U.S. and w
 
 '*' I drew my sketch for Graph 4 before finding an adequate data source, so it shows a longer time horizon than I actually have data for
 
-### Initial Sketches
+## Initial Sketches
 
 ![image1](https://user-images.githubusercontent.com/61394509/153771663-5396c12d-b8b2-4629-8dc8-d60b7c74088b.jpeg)
 
-### Data Sources
+## Data Sources
 
 Fertility statistics come from the CDC National Vital Statistics System (https://www.cdc.gov/nchs/nvss/births.htm). This is a Federal compilation of data gleaned from birth certificates. I will use the ferility rate for Graph 1 (Declining Fertility Rate) and Graph 2 (Gap between desired and actual # of children).
 
@@ -36,7 +36,7 @@ Further, I will use OECD data on poverty rates (https://data.oecd.org/inequality
 
 I will use monthly poverty data (https://www.povertycenter.columbia.edu/forecasting-monthly-poverty-data) from the Columbia University Center on Poverty & Social Policy for Graph 4 (U.S. Child Poverty over time).
 
-### Method and Medium
+## Method and Medium
 
 I plan to use Shorthand to create my project. This platform will allow me to incorporate data visualizations, public domain images, and written text in order to effectively convey my story.
 
