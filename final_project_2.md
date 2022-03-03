@@ -1,14 +1,17 @@
-### Storyboard
+# Final Project Part 2: U.S. Child Allowance
+
+## Storyboard
 [Shorthand Preview](https://preview.shorthand.com/Iqs674OlvaGcbNj5?_gl=1*1x0buqu*_gcl_aw*R0NMLjE2NDQ3MTM5NTkuQ2owS0NRaUEwcDJRQmhEdkFSSXNBQUNTT09PeGZVMGtialNRWWxhc0hUZWNnU3d4YlhZSzZ4bE9lM2E1eEM1dDZ1c184ZVV6X1Y2QWJhQWFBcWxfRUFMd193Y0I.)
 
-### Research Protocol
+## Research Protocol
 
-a. My target audience is the general public and policymakers, to inform all parties of the issue and its importance.
+### Part A: Target Audience
+My target audience is the general public and policymakers, to inform all parties of the issue and its importance.
 
-b. I identified individuals with varying political views and varying relations to policy. I interviewed one liberal with a policy degree, one conservative with a law degree, and one libertarian with a marketing degree.
+### Part B: Representative Sample
+I identified individuals with varying political views and varying relations to policy. I interviewed one liberal with a policy degree, one conservative with a law degree, and one libertarian with a marketing degree.
 
-c. 
-##### Interview Script
+### Part C: Interview Script
 These questions gave me some really useful feedback last time, so I figured I would use them again.
 
 1. Can you tell me what you think this is?
@@ -17,7 +20,7 @@ These questions gave me some really useful feedback last time, so I figured I wo
 4. Who do you think is the intended audience for this?
 5. Is there anything you would change or do differently?
 
-d. & e. Findings & Intended Changes
+### Part D: Findings 
 
 ##### Interview 1
 1. "I assume a child allowance and child tax credits are the same? This appears to be an effort to increase the child birth rate by providing a monetary incentive."
@@ -45,6 +48,12 @@ This interview made me feel confident that my major points hit: the startling fe
 5. "More written info on each slides wouldn't be bad."
 
 Again, this gave me confidence that my key points hit. An interesting note from this interview: perhaps the presentation persuades young parents in particular to be animated about such a proposal. Like I mentioned, I will address how much content I can add once I start rehearsing.
+
+### Part E: Intended Changes
+
+1. Consistent with findings from my interviews, I will add more text to my presentation
+2. Further, I will strictly refer to the policy as the "Child Tax Credit" instead of alternating between that and "Child Allowance," to avoid confusion
+3. I will include data-based arguments in my visualizations and some appeals to emotion in my text
 
 
 [Return to Home Page](/README.md)
