@@ -34,6 +34,9 @@ One pattern within the feedback was the desire for more text in the report. My i
 
 The primary changes I made from Part II to Part III, consistent with the feedback I received, were: (1) add more text to my report and (2) strictly use "Child Tax Credit" to refer to the proposed policy. I also altered the Call to Action. My initial call was not sufficiently actionable. Thus, in my final report I included a petition that the audience can sign to urge Congress to pass an Expanded Child Tax Credit.
 
+#### Design Choices
+I wanted to have a consistent color scheme across the entire report. I used a blue with the hex code #0089ae across Shorthand and Flourish. This blue reminds me of a business report or policy explainer, and I wanted to invoke the professionalism and competence of these types of documents. I used a blue background in the report to neutrally explain the issues, a black background when I wanted to invoke a sense of despair, and a white background when I wanted to invoke a sense of hope. I used imagery that incorporated the American flag, to invoke a sense of patriotism and associate the policy with notions of a better country. Throughout the report, I aimed to blend factual arguments with appeals to emotion.
+
 #### Dataset
 
 For my first graph, "U.S. fertility rate is below replacement level, and falling" I used fertility data from [The World Bank](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?locations=US). I plotted U.S. fertility (births per woman) from 1980 to 2019 and included a "Replacement Rate" line at [2.1 births per woman](https://www.wri.org/research/achieving-replacement-level-fertility#:~:text=%E2%80%9CReplacement%20level%20fertility%E2%80%9D%20is%20the,modestly%20vary%20with%20mortality%20rates.), which is consistent with researchers' generally-accepted value.
