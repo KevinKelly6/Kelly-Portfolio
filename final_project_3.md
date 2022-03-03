@@ -2,7 +2,7 @@
 
 ## Project Write-Up
 
-##### Motivation
+#### Motivation
 For this project, I was motivated to by the notion that an Expanded Child Tax Credit would dramatically cut U.S. child poverty and boost the declining fertility rate. I began by outlining the story, which would serve as the framework for my final report.
 
 ##### Story
