@@ -1,5 +1,7 @@
 # Final Project Part III: Save the Expanded Child Tax Credit
 
+## [Link to Final Report](https://carnegiemellon.shorthandstories.com/save-the-expanded-child-tax-credit/index.html)
+
 ## Project Write-Up
 
 #### Motivation
@@ -31,3 +33,5 @@ Next, I solicited feedback on the draft report. I interviewed three people with 
 One pattern within the feedback was the desire for more text in the report. My initial thoughts were to keep it simple, but I overdid it in that respect. Another notable piece of feedback was confusion with the terms "Child Tax Credit" and "Child Allowance." I used these terms interchangeably, which caused unnecessary confusion.
 
 The primary changes I made from Part II to Part III, consistent with the feedback I received, were: (1) add more text to my report and (2) strictly use "Child Tax Credit" to refer to the proposed policy. I also altered the Call to Action. My initial call was not sufficiently actionable. Thus, in my final report I included a petition that the audience can sign to urge Congress to pass an Expanded Child Tax Credit.
+
+#### Dataset
