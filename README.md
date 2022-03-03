@@ -95,8 +95,7 @@ The first visualization, the bar chart, shows the current state of OECD countrie
 <div class="flourish-embed flourish-chart" data-src="visualisation/8565187"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Part 3: Line Race
-
-[Click Here](/dataviz2.3.md)
+<div class="flourish-embed flourish-chart" data-src="visualisation/8567617"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Assignment 1 King County COVID Cases
