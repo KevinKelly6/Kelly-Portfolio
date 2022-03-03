@@ -44,6 +44,4 @@ I plan to use Shorthand to create my project. This platform will allow me to inc
 
 [Go to Part III](/final_project_3.md)
 
-
-
 [Return to main page](/README.md)
