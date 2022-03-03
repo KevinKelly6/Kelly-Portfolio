@@ -41,5 +41,6 @@ I will use monthly poverty data (https://www.povertycenter.columbia.edu/forecast
 I plan to use Shorthand to create my project. This platform will allow me to incorporate data visualizations, public domain images, and written text in order to effectively convey my story.
 
 [Go to Part II](/final_project_2.md)
+[Go to Part III](/final_project_3.md)
 
 [Return to main page](/README.md)
