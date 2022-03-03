@@ -10,6 +10,10 @@ I studied Behavioral Ecomomics at CMU and am currently enrolled in the MS-DC pro
 I of course want to learn how to make highly effective data visualizations. I love stories and want to be able to tell them -- with data! I want to be able to take complex topics and distill them into a medium that I can share with others even if they are not familiar with the subject.
 
 
+## Final Project Part III
+[Click Here](/final_project_3.md)
+
+
 ## Final Project Part II
 [Click Here](/final_project_2.md)
 
